@@ -1,0 +1,13 @@
+<html>
+<header>
+<titlle> vous etes sur la home page </title>
+
+<center>
+<img src="/Applications/MAMP/htdocs/piscine/picture.jpg">
+<center>
+<p> Bienvenue sur ce siter internet issu d'un projet piscine </p>
+<a href="fichier.pdf" download  > Mon CV </a>
+<a href="LM-Swatchgroup.pdf" download  > Ma lettre de motivation </a>
+</body>
+</html>
+
